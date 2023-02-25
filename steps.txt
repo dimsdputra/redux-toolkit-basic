@@ -1,0 +1,6 @@
+1. install redux toolkit
+2. buat folder app, kemudian buat file store.js, import configureStore
+3. kemudian providing thhe global store state di index.js, import store yang ada di folder app, lalu import Provider di react-redux
+4. selanjutnya create redux slice.
+5. buat folder features, kemudian didalamnya buat lagi folder counter, kemudian buat file counterSlice.js
+6. di dalam counterSlice.js import createSlice
